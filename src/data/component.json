@@ -1,0 +1,104 @@
+{
+  "slideshow": [
+    {
+      "slides": [
+        {
+          "id": "vZ0JQn",
+          "text": "<li>\n    <div class=\"uk-container\">\n        <div class=\"uk-grid-medium uk-grid\" data-uk-grid=\"\">\n            <div class=\"uk-width-1-2@s uk-first-column\">\n                <div class=\"uk-overlay\">\n                    <h1>New standard<br>in stock broker.</h1>\n                    <p class=\"uk-text-lead uk-visible@m\">Trade forex, commodities, synthetic and stock indices from a single account</p>\n                    <a href=\"#\" class=\"uk-button uk-button-default uk-border-rounded uk-visible@s\">Discover platform</a>\n                </div>\n            </div>\n            <div class=\"uk-width-1-2@s\">\n                <img class=\"in-slide-img\" src=\"{{root}}img/in-lazy.gif\" data-src=\"{{root}}img/in-liquid-slide-1.svg\" alt=\"image-slide\" width=\"500\" height=\"400\"\n                    data-uk-img=\"\">\n            </div>\n        </div>\n    </div>\n</li>"
+        },
+        {
+          "id": "vmJGwU",
+          "text": "<li>\n    <div class=\"uk-container\">\n        <div class=\"uk-grid-medium uk-grid\" data-uk-grid=\"\">\n            <div class=\"uk-width-1-2@s uk-first-column\">\n                <div class=\"uk-overlay\">\n                    <h1>Multi-regulated global broker.</h1>\n                    <p class=\"uk-text-lead uk-visible@m\">A trusted destination for traders worldwide, Authorised by FCA, ASIC &amp; FSCA</p>\n                    <a href=\"#\" class=\"uk-button uk-button-default uk-border-rounded uk-visible@s\">Discover accounts</a>\n                </div>\n            </div>\n            <div class=\"uk-width-1-2@s\">\n                <img class=\"in-slide-img\" src=\"{{root}}img/in-lazy.gif\" data-src=\"{{root}}img/in-liquid-slide-2.svg\" alt=\"image-slide\" width=\"500\" height=\"400\"\n                    data-uk-img=\"\">\n            </div>\n        </div>\n    </div>\n</li>"
+        }
+      ]
+    },
+    {
+      "slides": [
+        {
+          "id": "QsvNPs",
+          "text": "<li>\n    <div class=\"uk-container\">\n        <div class=\"uk-grid-medium uk-grid\" data-uk-grid=\"\">\n            <div class=\"uk-width-1-2@s uk-first-column\">\n                <div class=\"uk-overlay\">\n                    <h1>Learn forex with our courses.</h1>\n                    <p class=\"uk-text-lead uk-visible@m\">Weekly educational workshops are a great resource for any skill level trader</p>\n                    <a href=\"#\" class=\"uk-button uk-button-default uk-border-rounded uk-visible@s\">Discover courses</a>\n                </div>\n            </div>\n            <div class=\"uk-width-1-2@s\">\n                <img class=\"in-slide-img\" src=\"{{root}}img/in-lazy.gif\" data-src=\"{{root}}img/in-liquid-slide-3.svg\" alt=\"image-slide\" width=\"500\" height=\"400\"\n                    data-uk-img=\"\">\n            </div>\n        </div>\n    </div>\n</li>"
+        },
+        {
+          "id": "dOJXE6",
+          "text": "<li>\n    <div class=\"uk-container\">\n        <div class=\"uk-grid-medium uk-grid\" data-uk-grid=\"\">\n            <div class=\"uk-width-1-2@s uk-first-column\">\n                <div class=\"uk-overlay\">\n                    <h1>Award-winning trading platforms.</h1>\n                    <p class=\"uk-text-lead uk-visible@m\">Explore endless trading opportunities with tight spreads and no commission</p>\n                    <a href=\"#\" class=\"uk-button uk-button-default uk-border-rounded uk-visible@s\">Discover platform</a>\n                </div>\n            </div>\n            <div class=\"uk-width-1-2@s\">\n                <img class=\"in-slide-img\" src=\"{{root}}img/in-lazy.gif\" data-src=\"{{root}}img/in-liquid-slide-4.svg\" alt=\"image-slide\" width=\"500\" height=\"400\"\n                    data-uk-img=\"\">\n            </div>\n        </div>\n    </div>\n</li>"
+        }
+      ]
+    },
+    {
+      "slides": [
+        {
+          "id": "jd4TG5",
+          "text": "<li>\n    <div class=\"uk-container\">\n        <div class=\"uk-grid-medium uk-grid\" data-uk-grid=\"\">\n            <div class=\"uk-width-1-2@s uk-first-column\">\n                <div class=\"uk-overlay\">\n                    <h1>Award-winning trading platforms.</h1>\n                    <p class=\"uk-text-lead uk-visible@m\">Explore endless trading opportunities with tight spreads and no commission</p>\n                    <a href=\"#\" class=\"uk-button uk-button-default uk-border-rounded uk-visible@s\">Discover platform</a>\n                </div>\n            </div>\n            <div class=\"uk-width-1-2@s\">\n                <img class=\"in-slide-img\" src=\"{{root}}img/in-lazy.gif\" data-src=\"{{root}}img/in-liquid-slide-4.svg\" alt=\"image-slide\" width=\"500\" height=\"400\"\n                    data-uk-img=\"\">\n            </div>\n        </div>\n    </div>\n</li>"
+        },
+        {
+          "id": "8oB2ZD",
+          "text": "<li>\n    <div class=\"uk-container\">\n        <div class=\"uk-grid-medium uk-grid\" data-uk-grid=\"\">\n            <div class=\"uk-width-1-2@s uk-first-column\">\n                <div class=\"uk-overlay\">\n                    <h1>Learn forex with our courses.</h1>\n                    <p class=\"uk-text-lead uk-visible@m\">Weekly educational workshops are a great resource for any skill level trader</p>\n                    <a href=\"#\" class=\"uk-button uk-button-default uk-border-rounded uk-visible@s\">Discover courses</a>\n                </div>\n            </div>\n            <div class=\"uk-width-1-2@s\">\n                <img class=\"in-slide-img\" src=\"{{root}}img/in-lazy.gif\" data-src=\"{{root}}img/in-liquid-slide-3.svg\" alt=\"image-slide\" width=\"500\" height=\"400\"\n                    data-uk-img=\"\">\n            </div>\n        </div>\n    </div>\n</li>"
+        }
+      ]
+    },
+    {
+      "slides": []
+    }
+  ],
+  "header": {
+    "siteLogo": {
+      "src": "img/user/header-logo-6ohuZh.svg",
+      "width": "160",
+      "height": "34"
+    },
+    "signup": {
+      "title": "Create account",
+      "url": "#",
+      "external": false,
+      "display": true
+    },
+    "signin": {
+      "title": "Sign in",
+      "url": "signin.html",
+      "external": false,
+      "display": true
+    }
+  },
+  "footer": {
+    "copyrightText": "<span>Copyright ©2021 Liquid Inc. All Rights Reserved.</span>",
+    "siteLogo": {
+      "enabled": false,
+      "logo": {
+        "src": "",
+        "width": "",
+        "height": ""
+      }
+    }
+  },
+  "contactMap": {
+    "email": "halo@company.com",
+    "mapIframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10600.5248164368!2d144.95966577016594!3d-37.81707816290683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sid!4v1645280096951!5m2!1sen!2sid\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10600.5248164368!2d144.95966577016594!3d-37.81707816290683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sid!4v1645280096951!5m2!1sen!2sid"
+  },
+  "socialMedia": [
+    {
+      "facebook": "https://www.facebook.com/indonez"
+    },
+    {
+      "twitter": "https://twitter.com/indonez_tw"
+    },
+    {
+      "instagram": "https://www.instagram.com/indonez_ig"
+    },
+    {
+      "linkedin": ""
+    },
+    {
+      "behance": ""
+    },
+    {
+      "whatsapp": ""
+    },
+    {
+      "telegram": "#some-link"
+    },
+    {
+      "youtube": "#some-link"
+    }
+  ]
+}
